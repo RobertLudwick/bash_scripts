@@ -1,0 +1,11 @@
+#!/bin/bash
+
+start = pwd
+
+cd 
+
+cd /Users/robertludwick/Desktop/bash_scripts
+
+echo $PATH | python3 cleanup.py 
+
+echo $start
