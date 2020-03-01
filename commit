@@ -1,5 +1,5 @@
 #!/bin/bash
-# this does not work
+
 # Use $1 to get the first argument:
 git add .
 

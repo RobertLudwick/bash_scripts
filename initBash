@@ -4,5 +4,7 @@ touch $1
 
 echo "#!/bin/bash" >> $1
 
+open -a "TextWrangler" $1
+
 chmod u+x $1
 
